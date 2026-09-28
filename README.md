@@ -82,13 +82,66 @@ The analytics above are generated dynamically from your public GitHub activity, 
 
 </div>
 
-📈 Contribution Activity
+🔥 Contribution Command Center
 
 <div align="center">
 
-<a href="https://github.com/Sb12349">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="GitHub activity graph"/>
-</a>
+CODE • COMMIT • CONTRIBUTE • REPEAT
+
+<br>
+
+<a href="https://github.com/Sb12349"> <img src="https://streak-stats.demolab.com/?user=Sb12349&theme=tokyonight&hide_border=true&border_radius=16&card_width=900" width="90%" alt="GitHub contribution streak"/> </a>
+
+<br><br>
+
+📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Sb12349%20%E2%80%94%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+
+<br>
+
+🟩 Contribution Calendar
+
+<a href="https://github.com/Sb12349"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Flow" width="100%" alt="GitHub contribution flow"/> </a>
+
+</div>
+
+⚡ My Contribution Flow
+                         ┌────────────────────┐
+                         │     💡 IDEA        │
+                         └─────────┬──────────┘
+                                   ↓
+                         ┌────────────────────┐
+                         │    💻 CODE         │
+                         └─────────┬──────────┘
+                                   ↓
+                         ┌────────────────────┐
+                         │    🧪 TEST         │
+                         └─────────┬──────────┘
+                                   ↓
+                         ┌────────────────────┐
+                         │    🚀 COMMIT       │
+                         └─────────┬──────────┘
+                                   ↓
+                         ┌────────────────────┐
+                         │    📈 CONTRIBUTE   │
+                         └─────────┬──────────┘
+                                   ↓
+                         ┌────────────────────┐
+                         │    🔁 REPEAT       │
+                         └────────────────────┘
+
+<div align="center">
+
+🟢 GitHub Activity
+
+████████████████████████████████████████
+
+Every contribution is another step forward.
+
+<br>
+
+<a href="https://github.com/Sb12349"> <img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </div>
 
