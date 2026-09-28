@@ -106,33 +106,21 @@ CODE • COMMIT • CONTRIBUTE • REPEAT
 
 </div>
 
-⚡ My Contribution Flow
-                         ┌────────────────────┐
-                         │     💡 IDEA        │
-                         └─────────┬──────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │    💻 CODE         │
-                         └─────────┬──────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │    🧪 TEST         │
-                         └─────────┬──────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │    🚀 COMMIT       │
-                         └─────────┬──────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │    📈 CONTRIBUTE   │
-                         └─────────┬──────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │    🔁 REPEAT       │
-                         └────────────────────┘
+📈 Contribution Activity
 
 <div align="center">
 
+<a href="https://github.com/Sb12349"> <img src="https://streak-stats.demolab.com/?user=Sb12349&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="70%"/> </a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&radius=10&custom_title=Sb12349%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+
+<br>
+
+<a href="https://github.com/Sb12349"> <img src="https://img.shields.io/badge/🔥%20VIEW%20FULL%20CONTRIBUTION%20CALENDAR-161B22?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</div>
 🟢 GitHub Activity
 
 ████████████████████████████████████████
