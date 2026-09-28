@@ -100,38 +100,37 @@ CODE • COMMIT • CONTRIBUTE • REPEAT
 
 <br>
 
-🟩 Contribution Calendar
-
-<a href="https://github.com/Sb12349"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Flow" width="100%" alt="GitHub contribution flow"/> </a>
-
-</div>
-
-📈 Contribution Activity
+🔥 GitHub Contributions
 
 <div align="center">
 
-<a href="https://github.com/Sb12349"> <img src="https://streak-stats.demolab.com/?user=Sb12349&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="70%"/> </a>
+<a href="https://github.com/Sb12349">
 
-<br><br>
+<img src="https://ghchart.rshah.org/39d353/Sb12349" alt="Sb12349 GitHub Contribution Calendar" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&radius=10&custom_title=Sb12349%20%E2%80%94%20Contribution%20Activity" width="100%"/>
-
-<br>
-
-<a href="https://github.com/Sb12349"> <img src="https://img.shields.io/badge/🔥%20VIEW%20FULL%20CONTRIBUTION%20CALENDAR-161B22?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</div>
-🟢 GitHub Activity
-
-████████████████████████████████████████
-
-Every contribution is another step forward.
+</a>
 
 <br>
 
-<a href="https://github.com/Sb12349"> <img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+📊 Contribution Activity
+
+<a href="https://github.com/Sb12349">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+
+</a>
+
+<br>
+
+<a href="https://github.com/Sb12349">
+
+<img src="https://streak-stats.demolab.com/?user=Sb12349&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="70%" alt="GitHub Contribution Streak"/>
+
+</a>
 
 </div>
+
+
 
 🏆 GitHub Achievements
 
