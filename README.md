@@ -132,15 +132,7 @@ CODE • COMMIT • CONTRIBUTE • REPEAT
 
 
 
-🏆 GitHub Achievements
 
-<div align="center">
-
-<a href="https://github.com/Sb12349">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sb12349&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
-</a>
-
-</div>
 
 ⭐ Featured Projects
 
