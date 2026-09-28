@@ -1,43 +1,270 @@
-<h1 align="center">Hi 👋, I'm Soumya Bhattacharya</h1>
-<h3 align="center">From Algorithms to AI — Coding My Way Forward 🚀</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sb12349&label=Profile%20views&color=0e75b6&style=flat" alt="sb12349" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb12349" alt="sb12349" /></a> </p>
+👋 Hi, I'm Soumya Bhattacharya
 
-- 🔭 I’m currently working on [AgriSetu](https://github.com/Sb12349/AgriSetu.git)
+Full-Stack Developer • AI/ML Enthusiast • Problem Solver
 
-- 🌱 I’m currently learning **DSA in Java**
+From Algorithms to AI — Coding My Way Forward 🚀
 
-- 👯 I’m looking to collaborate on [Education Performance Dashboard](https://github.com/Sb12349/Education-performance-dashboard.git)
-
-- 🤝 I’m looking for help with [AgriSetu](https://github.com/Sb12349/AgriSetu.git)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **bhattacharyasoumya44@gmail.com**
-
-- 📄 Know about my experiences [https://go.fliplink.me/view/EBFA1C46-6879-4707-88E8-569781F8A414](https://go.fliplink.me/view/EBFA1C46-6879-4707-88E8-569781F8A414)
-
-- ⚡ Fun fact **I enjoy turning “impossible” coding problems into “let me try one more time.”**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@soumyabhattb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@soumyabhattb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumya bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya bhattacharya" height="30" width="40" /></a>
-<a href="https://fb.com/soumya bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumya bhattacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/bhattacharyasoumya44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhattacharyasoumya44" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/editz by soumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="editz by soumya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhattacharyaso10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhattacharyaso10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumya bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumya bhattacharya" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Sb12349">
+    <img src="https://img.shields.io/badge/GitHub-Sb12349-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:bhattacharyasoumya44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://go.fliplink.me/view/EBFA1C46-6879-4707-88E8-569781F8A414">
+    <img src="https://img.shields.io/badge/Resume-View_CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Sb12349&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb12349&show_icons=true&locale=en&layout=compact" alt="sb12349" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb12349&show_icons=true&locale=en" alt="sb12349" /></p>
+🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb12349&" alt="sb12349" /></p>
+🎓 Developer passionate about building practical software
+🤖 Exploring AI/ML and intelligent applications
+💻 Building full-stack web applications
+🧠 Currently sharpening DSA with Java
+🌱 Learning by building, experimenting and solving problems
+🤝 Open to collaboration on meaningful projects
+⚡ Fun fact: I enjoy turning "impossible" coding problems into
+   "let me try one more time."
 
+🔭 Currently Working On
+
+AgriSetu — building a practical technology solution around agriculture and digital connectivity.
+
+👯 Open To
+
+Full-stack development projects
+
+AI/ML applications
+
+Student/open-source collaborations
+
+Interesting problem-solving projects
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sb12349&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight" alt="Soumya's GitHub stats"/>
+</a>
+<a href="https://github.com/Sb12349">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sb12349&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sb12349&theme=tokyonight" alt="GitHub statistics including repositories and stars"/>
+</a>
+
+</div>
+
+The analytics above are generated dynamically from your public GitHub activity, so repository counts, stars, commits and language usage update automatically. GitHub's own profile also provides the authoritative contribution calendar and activity timeline.
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img src="https://streak-stats.demolab.com/?user=Sb12349&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sb12349&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="GitHub activity graph"/>
+</a>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sb12349&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+🌾 AgriSetu
+
+A project focused on building a practical digital solution for the agriculture ecosystem.
+
+Focus
+
+🌱 Agriculture technology
+
+💻 Full-stack development
+
+🤖 Smart digital solutions
+
+<a href="https://github.com/Sb12349/AgriSetu">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AgriSetu"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+📊 Education Performance Dashboard
+
+A dashboard project for exploring and visualizing education-related performance data.
+
+Focus
+
+📊 Data visualization
+
+📈 Interactive dashboards
+
+🧩 Data-driven insights
+
+<a href="https://github.com/Sb12349/Education-performance-dashboard">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Education Dashboard"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Sb12349?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+  </a>
+</p>
+
+🛠️ Tech Stack
+
+👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,matlab" alt="Programming languages"/>
+</p>
+
+🌐 Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,django,flask,spring" alt="Frontend and backend technologies"/>
+</p>
+
+🤖 AI / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and data technologies"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+
+🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,azure,gcp" alt="Databases and cloud"/>
+</p>
+
+🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Developer tools"/>
+</p>
+
+💻 What I Like Building
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🌐
+
+Web Apps
+
+Modern, responsive and useful full-stack applications.
+
+</td>
+<td align="center" width="25%">
+
+🤖
+
+AI/ML
+
+Practical applications that turn data into useful solutions.
+
+</td>
+<td align="center" width="25%">
+
+📊
+
+Dashboards
+
+Clean interfaces for understanding data and performance.
+
+</td>
+<td align="center" width="25%">
+
+🧠
+
+DSA
+
+Improving problem-solving skills one challenge at a time.
+
+</td>
+</tr>
+</table>
+
+📚 Currently Learning
+
+☕ Data Structures & Algorithms with Java
+
+🤖 Artificial Intelligence & Machine Learning
+
+🌐 Advanced Full-Stack Development
+
+🗄️ Database Design & APIs
+
+☁️ Cloud & Deployment
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Sb12349">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:bhattacharyasoumya44@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://go.fliplink.me/view/EBFA1C46-6879-4707-88E8-569781F8A414">
+  <img src="https://img.shields.io/badge/Resume-View-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
+
+<div align="center">
+
+💙 Thanks for visiting my profile!
+
+Keep learning • Keep building • Keep improving 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="Footer"/>
+
+</div>
